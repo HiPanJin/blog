@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ghost-publish",
+	"name": "Obsidian Ghost Publish",
+	"version": "1.3.0",
+	"minAppVersion": "0.12.0",
+	"description": "Single click to publish to Ghost",
+	"author": "@jaynguyens <jay@nguyens.co>",
+	"authorUrl": "https://nguyens.co",
+	"isDesktopOnly": false
+}

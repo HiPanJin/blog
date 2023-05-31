@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "f0f9dd3e79388d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ea01de47565350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dafc487b9573609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/所有权.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcb7aceb1351c323",
+    "type": "split",
+    "children": [
+      {
+        "id": "6edeafffdc399620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86fdbb7d73e04272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df8881b3621bb8f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59e96a04b33ffdf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e09fd9a1fe801372",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2d05d3432f056b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f181e563c3b4b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e4ea85025c640e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/所有权.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03a7f82fb25589d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/所有权.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afe53ad6c27bf018",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abe9d35e6ab6ae88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/所有权.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-ghost-publish:Publish Ghost": false
+    }
+  },
+  "active": "1dafc487b9573609",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Rust/所有权.md",
+    "Go结构体.md",
+    "Rust",
+    "README.md",
+    "Go/test.md",
+    "Go/TEST TEST.md",
+    "2023-05-14.md",
+    "未命名.canvas",
+    "weekly",
+    "Go",
+    "C#"
+  ]
+}
